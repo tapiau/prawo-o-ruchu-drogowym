@@ -1,7 +1,7 @@
 PRZEPISY OGÓLNE
 ===============
 
-Art. 1.
+# Art. 1.
 
 1. Ustawa określa:
     1. zasady ruchu na drogach publicznych, w strefach zamieszkania oraz w strefach ruchu;
@@ -13,7 +13,7 @@ Art. 1.
     2. wynikającym ze znaków i sygnałów drogowych.
 3. Zadania samorządu województwa, o których mowa w art. 75aa–75ac, art. 140g ust. 2, art. 140i i art. 140k, stanowią zadania z zakresu administracji rządowej.
 
-Art. 2.
+# Art. 2.
 
 1. Użyte w ustawie określenia oznaczają:
     1. <a name="droga"></a>droga – wydzielony pas terenu składający się z jezdni, pobocza, chodnika, drogi dla pieszych lub drogi dla rowerów, łącznie z torowiskiem pojazdów szynowych znajdującym się w obrębie tego pasa, przeznaczony do ruchu lub postoju pojazdów, ruchu pieszych, jazdy wierzchem lub pędzenia zwierząt;
